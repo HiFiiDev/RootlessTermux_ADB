@@ -31,3 +31,5 @@ I am using [Xicor22's sudo su](https://github.com/xicor22/Sudo-su-Termux/) scrip
 I don't know if I will be able to get this working but I sure I am willing to try.
 
 In the least, I hope to have had opportunity to learn and grow from the code, and to contribute to an already amazing community.
+
+I have no intention of stealing code or credit. I just wanted to try my hand at something that has been quite difficult
